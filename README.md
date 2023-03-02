@@ -2,4 +2,6 @@
 
 Xiang Zheng, Jiajing Chen, Erjia Yan, Chaoqun Ni
 
+Journal of the Association for Information Science and Technology. 
+
 https://doi.org/10.1002/asi.24723
